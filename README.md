@@ -7,7 +7,7 @@ Repository for submitting Machine Learning with Hands-On assignment.
 - Official Github : https://github.com/rickiepark/handson-ml2
 
  ## Assignment
- |날짜|To Do List|상세내용|
+ |Date|To Do List|Details|
  |:----------:|:----:|:---------------:|
  |03/08 ~ 03/14|책 1강|한눈에 보는 머신러닝|
  |03/15 ~ 03/21|책 2강|머신러닝 프로젝트 처음부터 끝까지|
